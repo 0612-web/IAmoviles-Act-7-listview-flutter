@@ -1,4 +1,5 @@
 # IAmoviles-Act-7-listview-flutter
+<img width="352" height="597" alt="image" src="https://github.com/user-attachments/assets/54e8bb17-51e9-4614-b7b0-aad87810a497" />
 
 A new Flutter project.
 
